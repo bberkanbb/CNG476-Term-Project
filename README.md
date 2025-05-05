@@ -6,15 +6,15 @@
 - Arda Yücel 2457968
 
 ## Project Overview
-This project aims to evalüate the performance of the FLoRa wireless commünication
+This project aims to evaluate the performance of the FLoRa wireless commünication
 protocol in facilitating efficient trash management within a national park environment.
-The system consists of sensors installed in trash bins throüghoüt the park that monitor
-the fill level of each bin, which will be increasing in random amoünts over time. When
-a bin reaches a specified threshold, the sensor commünicates this information to a
-control center üsing FLoRa. Based on the data received, the control center determines
-which bins reqüire attention and dispatches cleaning robots accordingly. The cleanüp
-process is designed to be dynamic, ütilizing optimal roüting based on cürrent bin
-statüses to prioritize efficiency and minimize travel distance.
+The system consists of sensors installed in trash bins throughout the park that monitor
+the fill level of each bin, which will be increasing in random amounts over time. When
+a bin reaches a specified threshold, the sensor communicates this information to a
+control center using FLoRa. Based on the data received, the control center determines
+which bins require attention and dispatches cleaning robots accordingly. The cleanup
+process is designed to be dynamic, utilizing optimal routing based on current bin
+statuses to prioritize efficiency and minimize travel distance.
 
 ## Deliverables
 - Proposal Report
